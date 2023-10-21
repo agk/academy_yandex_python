@@ -34,4 +34,3 @@ print(f"{2 ** 0.5:.2f}")
 
 last_digit = 1234 % 10
 penultimate_digit = 1234 // 10 % 10
-
