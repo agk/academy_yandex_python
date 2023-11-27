@@ -23,14 +23,7 @@
 Вывод
 25
 0
-Ограничение памяти
-64.0 Мб
-Ограничение времени
-1 с
-Ввод
-стандартный ввод или input.txt
-Вывод
-стандартный вывод или output.txt"""
+"""
 children = int(input())
 candies = int(input())
 print(int(candies / children), (candies % children), sep="\n") 
